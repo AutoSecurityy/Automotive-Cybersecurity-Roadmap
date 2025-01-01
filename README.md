@@ -1,6 +1,6 @@
 <h1 align="center"> <b>🚗 Automotive Cybersecurity Career Roadmap 🛣</b></h1>
 <p align="center">
-  <img  width="500" src="banner.png" />
+  <img  width="650" src="roadmap_banner.png" />
 </p>
 
 ## Introduction
